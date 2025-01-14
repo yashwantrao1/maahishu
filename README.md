@@ -1,7 +1,7 @@
 # ***👋  Hi Everyone,***
   <img align="right" alt="GIF" src="https://github.com/Arjun1thakur/Arjun1thakur/blob/main/coworking-male-programmer-writing-program-code%20(1).gif" width="300" height="auto" />
 	
-**😎 I’m Yashwant rao<br>🌍 I'm based in `India`<br>🖥️ See my portfolio at [AJfolio](yashwantrao.in)<br>👀 I’m interested in new technologies<br>🤝 I'm open to collaborating on interesting projects<br>✉️ You can contact me at raoyashwant024@gamil.com**
+**😎 I’m Yashwant rao<br>🌍 I'm based in `India`<br>🖥️ See my portfolio at [yashwantrao.in](yashwantrao.in)<br>👀 I’m interested in new technologies<br>🤝 I'm open to collaborating on interesting projects<br>✉️ You can contact me at raoyashwant024@gamil.com**
 # ***💫 Quick Facts About Me:***
 <dl>
 <dt>🏡 Home town</dt>
